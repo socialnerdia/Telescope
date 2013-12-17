@@ -16,15 +16,15 @@ EpicEditorOptions={
 SharrreOptions={
 	share: {
 	  googlePlus: true,
-	  // facebook: true,
+	  facebook: true,
 	  twitter: true,
 	},
 	buttons: {
 	  googlePlus: {size: 'tall', annotation:'bubble'},
-	  // facebook: {layout: 'box_count'},
+	  facebook: {layout: 'box_count'},
 	  twitter: {
 	    count: 'vertical',
-	    via: 'TelescopeApp'
+	    via: 'Socialnerdia'
 	  },
 	},
 	enableHover: false,
